@@ -3,12 +3,12 @@
   "name": "MIGO calCalc - Personalny Kalkulator Kalorii",
   "icons": [
     {
-      "src": "ikona MIGO calCalc 1.6 192.png",
+      "src": "ikona MIGO calCalc 1.8 192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "ikona MIGO calCalc 1.6 512.png",
+      "src": "ikona MIGO calCalc 1.8 512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
